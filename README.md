@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven Madali!</h1>
 <h3 align="center">I'm a passionate Software Engineer Student At Cavite State University</h3>
-<img align="right" alt="Coding" width="400" src="[[https://www.deviantart.com/onecockman/art/Linkuriboh-about-to-cry-748482197](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f88745c-6033-492b-b8bb-6c0cacb726fa/dcdmkk5-2c0fd8a9-57af-4ddf-8f6d-f4cf210deb24.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmODg3NDVjLTYwMzMtNDkyYi1iOGJiLTZjMGNhY2I3MjZmYVwvZGNkbWtrNS0yYzBmZDhhOS01N2FmLTRkZGYtOGY2ZC1mNGNmMjEwZGViMjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qrb3pHmTaVCqhb88sINdOluZbSM4B03PPHT6qUz4vUw)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f88745c-6033-492b-b8bb-6c0cacb726fa/dcdmkk5-2c0fd8a9-57af-4ddf-8f6d-f4cf210deb24.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmODg3NDVjLTYwMzMtNDkyYi1iOGJiLTZjMGNhY2I3MjZmYVwvZGNkbWtrNS0yYzBmZDhhOS01N2FmLTRkZGYtOGY2ZC1mNGNmMjEwZGViMjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qrb3pHmTaVCqhb88sINdOluZbSM4B03PPHT6qUz4vUw)">
+<img align="right" alt="Coding" width="400" src="[![image](https://github.com/user-attachments/assets/bee10ec9-8dd7-4efa-a493-45a0e4fc5078)](https://media1.tenor.com/m/TlE-ceZhKacAAAAC/linkuriboh.gif)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> </p>
 
