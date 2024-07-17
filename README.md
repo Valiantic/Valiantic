@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven Madali!</h1>
 <h3 align="center">I'm a passionate Software Engineer Student At Cavite State University</h3>
+<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/onecockman/art/Linkuriboh-about-to-cry-748482197">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> </p>
 
