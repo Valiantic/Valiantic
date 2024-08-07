@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven Gabriel Madali!</h1>
+<h1 align="center">Hi 👋, I'm Steven Madali!</h1>
 <h3 align="center">I'm a passionate Software Engineer Student At Cavite State University</h3>
 <img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/TlE-ceZhKacAAAAC/linkuriboh.gif">
 </br></br>
