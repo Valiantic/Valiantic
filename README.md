@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Steven Madali!</h1>
 <h3 align="center">A Software Engineer Student At Cavite State University</h3>
-<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/TlE-ceZhKacAAAAC/linkuriboh.gif">
-</br></br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
