@@ -7,6 +7,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> </p>
 
+- 🌱 I’m currently learning **Python, Machine Learning**
+
+- ⚡ What I like to do: **Coding, Sleep, Basketball, and Workout**
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/steven-madali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steven-gabriel-madali-27201b268" height="30" width="40" /></a>
