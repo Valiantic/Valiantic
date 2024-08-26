@@ -5,11 +5,15 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> 
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
 - ⚡ What I like to do: **Coding, Sleep, Basketball, and Workout**
+
+
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
