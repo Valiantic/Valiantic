@@ -17,8 +17,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/steven-madali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steven-gabriel-madali-27201b268" height="30" width="40" /></a>
-<a href="https://www.instagram.com/stevemadali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stevemadali/" height="30" width="40" /></a>
+<!--   <a href="https://www.linkedin.com/in/steven-madali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steven-gabriel-madali-27201b268" height="30" width="40" /></a>
+<a href="https://www.instagram.com/stevemadali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stevemadali/" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
 </p>
 
 </div>
