@@ -13,7 +13,7 @@
 <br>
 ⚡ What I like to do: Play musical instruments, read science books, and write codes 👨🏻‍💻
 <br>
-🤖 Passionate in learning to the field of Artificial Intelligence 
+🤖 Passionate in learning on the field of Artificial Intelligence 
 <br>
 ⚙️ Working on self-projects daily
 </div>
