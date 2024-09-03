@@ -12,7 +12,9 @@
 🌱 I’m currently learning more in-depth about Web Development (planning to pursue Frontend Web Development first)
 <br>
 ⚡ What I like to do: Play musical instruments, read science books, and write codes 👨🏻‍💻
+<br>
 🤖 Passionate in learning to the field of Artificial Intelligence 
+<br>
 ⚙️ Working on self-projects daily
 </div>
 
