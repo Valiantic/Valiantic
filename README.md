@@ -36,8 +36,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,java,javascript,python,mysql,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,javascript,java,python,mysql,php&theme=light" />
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&" alt="valiantic" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
