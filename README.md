@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-🌱 I’m currently learning more in-depth about Web Development (planning to pursue Frontend Web Development first)
+🌱 I’m currently learning more in-depth about Web Development (planning to pursue Backend Web Development first)
 <br>
 ⚡ What I like to do: Play musical instruments, read science books, and write codes 👨🏻‍💻
 <br>
