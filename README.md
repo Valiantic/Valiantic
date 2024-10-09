@@ -7,9 +7,9 @@
 
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" />  -->
-  ### Profile Visits:
+  Profile Visits:
 
-![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{valiantic}/count.svg)
 
 </p>
 
