@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-🌱 I’m currently learning more in-depth about Web Development (planning to pursue Backend Web Development first)
+🌱 I’m currently learning more in-depth about Frontend Web Development (Planning to pursue Backend Development next)
 <br>
 ⚡ What I like to do: Play musical instruments, read science books, and write codes 👨🏻‍💻
 <br>
