@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> 
+  <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="valiantic" /> 
 
 </p>
 
