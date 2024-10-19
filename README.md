@@ -48,7 +48,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantic&show_icons=true&locale=en" alt="valiantic" /></p> 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantic&theme=tokyonight&show_icons=true&locale=en" alt="valiantic" /></p> 
 
 
    <!--  MOST USED LANGUAGES
