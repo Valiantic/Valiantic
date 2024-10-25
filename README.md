@@ -1,42 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Madali!</h1>
 <h3 align="center">A Software Engineer Student At Cavite State University</h3>
-<div align="center">
-  <img alt="Coding" width="200" src="https://media1.tenor.com/m/TlE-ceZhKacAAAAC/linkuriboh.gif">
-</div>
-
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=valiantic&label=Profile%20views&color=0e75b6&style=flat" alt="valiantic" /> 
-
-</p>
-
-
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valiantic" alt="valiantic" /></a> </p>
- 
-
-
-<div align="center">
-🌱 I’m currently learning more in-depth about Frontend Web Development (Planning to pursue Backend Development next)
-<br>
-⚡ What I like to do: Play musical instruments, read science books, and write codes 👨🏻‍💻
-<br>
-🤖 Passionate in learning on the field of Artificial Intelligence 
-<br>
-⚙️ Working on self-projects daily
-</div>
-
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<!--   <a href="https://www.linkedin.com/in/steven-madali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steven-gabriel-madali-27201b268" height="30" width="40" /></a>
-<a href="https://www.instagram.com/stevemadali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stevemadali/" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-  
-</p>
-
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <!-- COMMENT OUT OLD SKILL ICONS
