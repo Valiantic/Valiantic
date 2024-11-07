@@ -41,7 +41,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
 
 <p align="center">
- <img src="https://github-skill-matrix.onrender.com/api/skills/JohnDev19/cool"/>
+ <img src="https://github-skill-matrix.onrender.com/api/skills/JohnDev19/futuristic"/>
 </p>
 
 <!--
