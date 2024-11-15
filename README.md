@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steven Madali!</h1>
 <h3 align="center">A Software Engineer Student At Cavite State University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valiantic" alt="valiantic" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=valiantic&no-frame=true&no-bg=true&theme=onedark&exclude_issues=true&exclude_reviews=true" alt="valiantic" />
+  </a>
+</p>
  
 
 
