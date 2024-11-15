@@ -3,9 +3,10 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=valiantic&no-frame=true&no-bg=true&theme=onedark&exclude_issues=true&exclude_reviews=true" alt="valiantic" />
+    <img src="https://github-profile-trophy.vercel.app/?username=valiantic&exclude=Issues,PullRequest,Reviews" alt="valiantic" />
   </a>
 </p>
+
  
 
 
