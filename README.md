@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=valiantic&title=MultiLanguage,Commits,Repositories,Experience,Followers" alt="valiantic" />
+    <img src="https://github-profile-trophy.vercel.app/?username=valiantic&title=MultiLanguage,Commits,Repositories,Experience,Followers,Stars," alt="valiantic" />
   </a>
 </p>
 
