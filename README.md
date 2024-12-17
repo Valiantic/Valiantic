@@ -45,8 +45,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=valiantic1&theme=dark)](https://git.io/streak-stats)
 
 
 
