@@ -43,10 +43,7 @@
   </a>
 </p> 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=valiantic1&theme=dark)](https://git.io/streak-stats)
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=dark" alt="valiantic" /></p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valiantic&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="valiantic" /></p>
