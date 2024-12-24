@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Steven Gabriel Madali</h1>
+<h3 align="center">A Software Engineer Student 🚀 At Cavite State University</h3>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=valiantic&title=MultiLanguage,Commits,Repositories,Experience,Followers,Stars&column=-1" alt="valiantic" />
   </a>
 </p>
-<h3 align="center">A Software Engineer Student 🚀 At Cavite State University</h3>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
 
 
