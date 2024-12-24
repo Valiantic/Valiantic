@@ -11,12 +11,13 @@
 
 
 # 💫 About Me:
-I am a Third-year Software Engineering Student at Cavite State University, with a proactive approach to learning in the field of Technology. I'm continuously upskilling myself through personal projects, online courses that earn industry-recognized certifications, and active contributions to open-source projects on GitHub.
+I am a Third-year Student at Cavite State University pursuing a Bachelor's Degree in Information Technology. I take a proactive approach to learning in the field of Technology. I'm continuously upskilling myself through personal projects, online courses that earn industry-recognized certifications, and active contributions to open-source projects on GitHub.
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Artificial Intelligence 
-- 💻 Building Self Projects Day by Day
+- 🌱 I’m currently learning more in-depth about Frontend Web Development (Planning to pursue Backend Development next)
+- 🤖 Exploring Artificial Intelligence Day by Day
+- 💻  Working on self-projects daily
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
