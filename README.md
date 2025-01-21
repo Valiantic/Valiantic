@@ -28,6 +28,6 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,javascript,react,tailwind,python,mysql,php,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,react,tailwind,python,mysql,php,java&theme=dark" />
   </a>
 </p> 
