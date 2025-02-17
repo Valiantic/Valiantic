@@ -15,7 +15,7 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 
 ## 🚀 What I'm Up To
 
-- 🌱 I’m currently learning more in-depth about Frontend Web Development (Planning to pursue Backend Development next)
+- 🌱 I’m currently learning more in-depth about Nextjs and Supabase
 - 🤖 Exploring Artificial Intelligence Day by Day
 - 💻  Working on self-projects daily
 
@@ -25,9 +25,9 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 <a href="https://www.instagram.com/stevemadali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stevemadali/" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-# 💻 Tech Stack:
+# 💻 Language and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,react,tailwind,python,mysql,php,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,react,nextjs,tailwind,python,supabase,mysql,php,java&theme=dark" />
   </a>
 </p> 
