@@ -7,7 +7,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=valiantic&title=MultiLanguage,Commits,Repositories,Experience,Followers,Stars&column=-1" alt="valiantic" />
   </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=tokyonight" alt="valiantic" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=highcontrast" alt="valiantic" /></p>
 
 
 # 💫 About Me:
@@ -33,5 +33,5 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 </p> 
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantic&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="Activity Graph"  />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantic&radius=16&theme=highcontrast&area=true&order=5" height="300" alt="Activity Graph"  />
 </div>
