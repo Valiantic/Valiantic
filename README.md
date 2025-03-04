@@ -31,3 +31,7 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,react,nextjs,tailwind,supabase,python,mysql,php&theme=dark" />
   </a>
 </p> 
+
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantic&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="Activity Graph"  />
+</div>
