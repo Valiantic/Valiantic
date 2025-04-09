@@ -20,6 +20,7 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 - 🌱 I’m currently learning more in-depth about Nextjs and Supabase
 - 🤖 Exploring Artificial Intelligence Day by Day
 - 💻  Working on self-projects daily
+-->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
