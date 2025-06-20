@@ -29,14 +29,16 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 <a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<!--
+
 # 💻 Language and Tools:
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,react,nextjs,tailwind,supabase,python,mysql,php&theme=dark" />
   </a>
 </p> 
 
+<!--
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantic&radius=16&theme=highcontrast&area=true&order=5" height="300" alt="Activity Graph"  />
-</div> -->
+</div> 
+-->
