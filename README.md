@@ -29,10 +29,7 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 <a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<h3 align="center"># 💻 Skill Set:</h3>
 
 | Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
 | ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
