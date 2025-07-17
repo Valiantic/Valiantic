@@ -34,7 +34,7 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,npm,react,expressjs,nodejs&theme=dark" />
-     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,python,java,mysql,postgresql,php,jest,postman,vercel&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel&theme=dark" />
   </a>
 </p> 
 
