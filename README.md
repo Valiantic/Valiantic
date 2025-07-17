@@ -32,16 +32,9 @@ I am a Third-year Student at Cavite State University pursuing a Bachelor's Degre
 
 <h3 align="center"># 💻 Language and Tools:</h3>
 <p align="left">
-  <h2>Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,react,nextjs,tailwind,supabase,python,mysql,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github, java,javascript,typescript,npm,react,expressjs,nodejs, nextjs,tailwind,supabase,python,mysql,postgresql, php,jest,postman,vercel,rendert&theme=dark" />
   </a>
-
-  <h2>Frontend</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,react,nextjs,tailwind,supabase,python,mysql,php&theme=dark" />
-  </a>
-  
 </p> 
 
 <!--
