@@ -8,6 +8,13 @@
   </a>
 </p>
 
+<div align="center">
+  <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=dark" alt="valiantic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantic&theme=tokyonight&show_icons=true&locale=en" alt="valiantic" /></p> 
+</div>
+
+
 <!--
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=highcontrast" alt="valiantic" /></p>
 
