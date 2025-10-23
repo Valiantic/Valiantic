@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Steven Gabriel Madali</h1>
-<h3 align="center">A Software Engineer Student 🚀 At Cavite State University</h3>
+<h3 align="center">A Software Engineer Student from the Philippines 🚀</h3>
 
 
 <p align="center">
