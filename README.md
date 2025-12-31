@@ -23,16 +23,16 @@ I am a Freelance Software Engineer and a student at Cavite State University purs
 <a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=valiantic&title=MultiLanguage,Commits,Repositories,Experience,Followers,Stars&column=-1" alt="valiantic" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=dark" alt="valiantic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantic&theme=tokyonight&show_icons=true&locale=en" alt="valiantic" /></p> 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantic&theme=tokyonight&show_icons=true&locale=en" alt="valiantic" /></p>  -->
 </div>
 
 
