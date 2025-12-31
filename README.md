@@ -1,6 +1,27 @@
-<h1 align="center">Hi 👋 I'm Steven Gabriel Madali</h1>
+<h1 align="center">Hi there, I'm Steven 👋</h1>
 <h3 align="center">A Software Engineer from the Philippines 🚀</h3>
 
+
+<!--
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=highcontrast" alt="valiantic" /></p>
+
+-->
+
+# 💫 About Me:
+I am a Freelance Software Engineer and a student at Cavite State University pursuing a Bachelor's Degree in Information Technology. I take a proactive approach to learning in the field of Technology. I have built fast-paced web applications that solve real client problems through my freelancing work, while also building AI-powered web applications as a hobby. I code every single day, driven by curiosity and continuous learning. I’m continuously upskilling myself through personal projects, online courses that earn industry-recognized certifications, and active contributions to open-source projects on GitHub.
+
+## 🚀 What I'm Up To
+
+- 🌱 I’m currently learning more in-depth about Generative AI
+- 🤖 Experimenting different AI models by intergrating it on web applications
+- 💻  Working on self-projects daily 
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+<!--   <a href="https://www.linkedin.com/in/steven-madali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steven-gabriel-madali-27201b268" height="30" width="40" /></a>
+<a href="https://www.instagram.com/stevemadali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stevemadali/" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -12,28 +33,6 @@
   <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=dark" alt="valiantic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valiantic&theme=tokyonight&show_icons=true&locale=en" alt="valiantic" /></p> 
-</div>
-
-
-<!--
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantic&theme=highcontrast" alt="valiantic" /></p>
-
-
-# 💫 About Me:
-I am a Third-year Student at Cavite State University pursuing a Bachelor's Degree in Information Technology. I take a proactive approach to learning in the field of Technology. I'm continuously upskilling myself through personal projects, online courses that earn industry-recognized certifications, and active contributions to open-source projects on GitHub.
-
-## 🚀 What I'm Up To
-
-- 🌱 I’m currently learning more in-depth about Nextjs and Supabase
-- 🤖 Exploring Artificial Intelligence Day by Day
-- 💻  Working on self-projects daily
--->
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<!--   <a href="https://www.linkedin.com/in/steven-madali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/steven-gabriel-madali-27201b268" height="30" width="40" /></a>
-<a href="https://www.instagram.com/stevemadali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stevemadali/" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/steven-madali/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://instagram.com/stevemadali"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 
