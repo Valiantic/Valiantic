@@ -40,7 +40,7 @@ I am a Freelance Software Engineer and a student at Cavite State University purs
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,npm,react,expressjs,nodejs&theme=dark" />
-     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,convex,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel&theme=dark" />
   </a>
 </p> 
 
