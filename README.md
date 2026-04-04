@@ -9,8 +9,6 @@
   </a>
 </p> 
 
-<h3 align="center">Projects</h3>
-
 ## 🚀 Current Projects
 
 - 🏪 **[Negosyo Digital](https://negosyo-digital.vercel.app/)** – AI Powered Platform to Make Websites for Local Business Owners Fast! 
