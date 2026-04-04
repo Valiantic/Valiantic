@@ -15,7 +15,7 @@
 - 🚀 **[IskolarSpace](https://iskolar-space.vercel.app/)** – AI Powered Task Management App that Creates Smart Study Plans for Group Task Collaboration.  
 - 📰 **[BalitAI](https://balita-ai.vercel.app/)** – Philippine Corruption News Map Tracker Visualization with AI Powered Summaries.  
 - 🖥️ **[LinuxGrandfa](https://linux-grandfa.vercel.app/)** – Your AI Powered Linux Chatbot Assistant.  
-- 👁️ **[Blinkyoo](blinkyoo.vercel.app)** – AI-powered productivity companion that Tracks Facial Movement and Phone Detection for Productivity Boost.  
+- 👁️ **[Blinkyoo](https://blinkyoo.vercel.app/)** – AI-powered productivity companion that Tracks Facial Movement and Phone Detection for Productivity Boost.  
 - 🪙 **[Purehealth RMS](https://purehealth-diagnostic-center.vercel.app/login)** – Capstone Project Proposal with FIDO2 Webauthn for Secure Login Authentication.  
 
 ## 📜 Legacy Works
