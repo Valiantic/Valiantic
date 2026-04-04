@@ -1,5 +1,34 @@
-<h1 align="center">Hi there, I'm Steven 👋</h1>
-<h3 align="center">A Software Engineer from the Philippines 🚀</h3>
+<h1 align="left">Hi there, I'm Steven 👋</h1>
+<h3 align="left">A Software Engineer from the Philippines 🇵🇭 </h3>
+
+<h3 align="left"># 💻 Language and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,npm,react,expressjs,nodejs&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,cloudflare,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel,netlify&theme=dark" />
+  </a>
+</p> 
+
+<h3 align="center">Projects</h3>
+
+## 🚀 Current Projects
+
+- 🏪 **[Negosyo Digital](https://negosyo-digital.vercel.app/)** – AI Powered Platform to Make Websites for Local Business Owners Fast! 
+- 🚀 **[IskolarSpace](https://iskolar-space.vercel.app/)** – AI Powered Task Management App that Creates Smart Study Plans for Group Task Collaboration.  
+- 📰 **[BalitAI](https://balita-ai.vercel.app/)** – Philippine Corruption News Map Tracker Visualization with AI Powered Summaries.  
+- 🖥️ **[LinuxGrandfa](https://linux-grandfa.vercel.app/)** – Your AI Powered Linux Chatbot Assistant.  
+- 👁️ **[Blinkyoo](https://github.com/Valiantic/Blinkyoo)** – AI-powered productivity companion that Tracks Facial Movement and Phone Detection for Productivity Boost.  
+- 🪙 **[Purehealth RMS](https://purehealth-diagnostic-center.vercel.app/login)** – Capstone Project Proposal with FIDO2 Webauthn for Secure Login Authentication.  
+
+## 📜 Legacy Works
+
+- 😊 **[JUAN](https://juan-web-based-artificial-intelligence-assistant.vercel.app/)** – AI Voice Assistant for Filipino Trivias Equipped with Facial Recognition Analysis.
+- 🛰️ **[CLARA](https://github.com/Valiantic/CLARA-Web-Based-AI-Space-Tracker-Assistant-)** – AI Voice Assistant for Astronomical Trivias Equipped with NASA API for ISS Tracking and Hugging Face.  
+- 🎂 **[IB Bakes](https://ib-bakes.netlify.app/)** – Homepage for IB Bakes Bake Shop with Kommunicate AI Chatbot Integration.  
+- ☁️ **[Weather Wise](https://weatherwise2.netlify.app/#/current-location)** – Built during Peak Heat Index in the Philippines to Help Filipinos be Aware of UV Rays.  
+- 📘 **[Aurevia LMS](https://github.com/Valiantic/Library-Management-System-)** – A Library Management System Final Project on System Development.  
+- 🏘️ **[Hidalgo AMS](https://github.com/Valiantic/Library-Management-System-)** – An Apartment Management System Final Project on System Design.  
+
 
 
 <!--
@@ -7,7 +36,7 @@
 
 -->
 
-# 💫 About Me:
+<h3>💫 About Me:</h3>
 I am a Freelance Software Engineer and a student at Cavite State University pursuing a Bachelor's Degree in Information Technology. I take a proactive approach to learning in the field of Technology. I have built fast-paced web applications that solve real client problems through my freelancing work, while also building AI-powered web applications as a hobby. I code every single day, driven by curiosity and continuous learning. I’m continuously upskilling myself through personal projects, online courses that earn industry-recognized certifications, and active contributions to open-source projects on GitHub.
 
 ## 🚀 What I'm Up To
@@ -36,13 +65,7 @@ I am a Freelance Software Engineer and a student at Cavite State University purs
 </div>
 
 
-<h3 align="center"># 💻 Language and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,npm,react,expressjs,nodejs&theme=dark" />
-     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,cloudflare,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel,netlify&theme=dark" />
-  </a>
-</p> 
+
 
 <!--
 <h3 align="center"># 💻 Skill Set:</h3>
