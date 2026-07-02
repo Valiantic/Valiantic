@@ -11,7 +11,7 @@
 
 ## 🚀 Current Projects
 
-- 🏪 **[Negosyo Digital](https://negosyo-digital.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast!
+- 🏪 **[Tendso](https://www.tendso.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast!
 - ⛽ **[Gasolinaw](https://gasolinaw.vercel.app/)** - AI Powered Platform to Help Drivers and Commuters Track and Estimate Fuel Consumption and Gas Prices. 
 - 🚀 **[IskolarSpace](https://iskolar-space.vercel.app/)** – AI Powered Task Management App that Creates Smart Study Plans for Group Task Collaboration.  
 - 📰 **[BalitAI](https://balita-ai.vercel.app/)** – Philippine Corruption News Map Tracker Visualization with AI Powered Summaries.  
