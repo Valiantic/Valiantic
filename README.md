@@ -4,8 +4,8 @@
 <h3 align="left"># 💻 Language and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,npm,react,expressjs,nodejs&theme=dark" />
-     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,cloudflare,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel,netlify&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github,javascript,typescript,npm,react,expressjs,nodejs,notion&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=nextjs,astro,tailwind,supabase,cloudflare,python,java,sequelize,mysql,postgresql,php,jest,postman,vercel,netlify&theme=dark" />
   </a>
 </p> 
 
