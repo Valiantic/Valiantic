@@ -36,7 +36,7 @@
 -->
 
 <h3>💫 About Me:</h3>
-I am a Freelance Software Engineer and a student at Cavite State University pursuing a Bachelor's Degree in Information Technology. I take a proactive approach to learning in the field of Technology. I have built fast-paced web applications that solve real client problems through my freelancing work, while also building AI-powered web applications as a hobby. I code every single day, driven by curiosity and continuous learning. I’m continuously upskilling myself through personal projects, online courses that earn industry-recognized certifications, and active contributions to open-source projects on GitHub.
+Proactive Software Engineer / AI Engineer passionate about building fast, intelligent, and scalable applications. Experienced in solving real client problems through web development and automation, while continuously exploring AI‑powered solutions.
 
 ## 🚀 What I'm Up To
 
