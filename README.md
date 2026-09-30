@@ -11,16 +11,17 @@
 
 ## 🚀 Current Projects
 
+- 🎯 **[Leaday](https://leaday-ai.vercel.app/)** – An AI-powered lead scoring platform that evaluates businesses through structured evidence, intelligent scoring, and comprehensive website.
 - 🏪 **[Tendso](https://www.tendso.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast!
+
+## 📜 Legacy Works
+
 - ⛽ **[Gasolinaw](https://gasolinaw.vercel.app/)** - AI Powered Platform to Help Drivers and Commuters Track and Estimate Fuel Consumption and Gas Prices. 
 - 🚀 **[IskolarSpace](https://iskolar-space.vercel.app/)** – AI Powered Task Management App that Creates Smart Study Plans for Group Task Collaboration.  
 - 📰 **[BalitAI](https://balita-ai.vercel.app/)** – Philippine Corruption News Map Tracker Visualization with AI Powered Summaries.  
 - 🖥️ **[LinuxGrandfa](https://linux-grandfa.vercel.app/)** – Your AI Powered Linux Chatbot Assistant.  
 - 👁️ **[Blinkyoo](https://blinkyoo.vercel.app/)** – AI-powered productivity companion that Tracks Facial Movement and Phone Detection for Productivity Boost.  
 - 🪙 **[Purehealth RMS](https://purehealth-diagnostic-center.vercel.app/login)** – Capstone Project Proposal with FIDO2 Webauthn for Secure Login Authentication.  
-
-## 📜 Legacy Works
-
 - 😊 **[JUAN](https://juan-web-based-artificial-intelligence-assistant.vercel.app/)** – AI Voice Assistant for Filipino Trivias Equipped with Facial Recognition Analysis.
 - 🛰️ **[CLARA](https://github.com/Valiantic/CLARA-Web-Based-AI-Space-Tracker-Assistant-)** – AI Voice Assistant for Astronomical Trivias Equipped with NASA API for ISS Tracking and Hugging Face.  
 - 🎂 **[IB Bakes](https://ib-bakes.netlify.app/)** – Homepage for IB Bakes Bake Shop with Kommunicate AI Chatbot Integration.  
