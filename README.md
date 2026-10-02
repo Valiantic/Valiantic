@@ -11,8 +11,8 @@
 
 ## 🚀 Current Projects
 
-- 🎯 **[Leaday](https://leaday-ai.vercel.app/)** – An AI-powered lead scoring platform that evaluates businesses through structured evidence, intelligent scoring, and comprehensive website.
-- 🏪 **[Tendso](https://www.tendso.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast!
+- 🎯 **[Leaday](https://leaday-ai.vercel.app/)** – An AI-powered Lead Scoring Platform that Evaluates Businesses through Structured Evidence, Intelligent Scoring, and Comprehensive Website.
+- 🏪 **[Tendso](https://www.tendso.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast and Help Creators Earn. 
 
 ## 📜 Legacy Works
 
