@@ -11,8 +11,8 @@
 
 ## 🚀 Current Projects
 
-- 🔎 **[Audibi](https://audibi.vercel.app/)** – An AI-powered Application Team of AI Agents to check Websites if it's Safe to Visit or Not and for Website Owners who need a Clear Picture of what to Fix on a Website.
-- 🎯 **[Leaday](https://leaday-ai.vercel.app/)** – An AI-powered Lead Scoring Platform that Evaluates Businesses through Structured Evidence, Intelligent Scoring, and Comprehensive Website.
+- 🔎 **[Audibi](https://audibi.vercel.app/)** – A team of AI agents that analyzes website security, identifies risks, and provides actionable recommendations for website owners.
+- 🎯 **[Leaday](https://leaday-ai.vercel.app/)** – An AI-powered lead scoring platform that evaluates businesses using data-driven insights and website analysis.
 - 🏪 **[Tendso](https://www.tendso.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast and Help Creators Earn. 
 
 ## 📜 Legacy Works
