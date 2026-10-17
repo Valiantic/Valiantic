@@ -11,7 +11,7 @@
 
 ## 🚀 Current Projects
 
-- 🤖 **[Tadashi](https://tadashi-ai.vercel.app/)** - AI assistant that listens to questions, progressively draws flowcharts/diagrams on a live canvas, and explains them aloud.
+- 🤖 **[TADASHI-AI](https://tadashi-ai.vercel.app/)** - AI assistant that listens to questions, progressively draws flowcharts/diagrams on a live canvas, and explains them aloud.
 - 🔎 **[Audibi](https://www.odibi.io/)** – A team of AI agents that analyzes website security, identifies risks, and provides actionable recommendations for website owners.
 - 🎯 **[Leaday](https://leaday-ai.vercel.app/)** – An AI-powered lead scoring platform that evaluates businesses using data-driven insights and website analysis.
 - 🏪 **[Tendso](https://www.tendso.com/)** – AI Powered Platform to Make Websites for Local Business Owners Fast and Help Creators Earn. 
