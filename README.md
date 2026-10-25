@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Steven 👋</h1>
-<h3 align="left">A Software Engineer from the Philippines 🇵🇭 </h3>
+<h3 align="left">A Software and AI Engineer from the Philippines 🇵🇭 </h3>
 
 <h3 align="left"># 💻 Language and Tools:</h3>
 <p align="left">
